@@ -7,7 +7,7 @@
     {
       "id": "wolotas-354",
       "name": "0.9-1.0GHz信号功放模块-50w无线网信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 900,
@@ -35,7 +35,7 @@
     {
       "id": "wolotas-353",
       "name": "0.8-0.9GHz信号功放模块-50w无线网信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 800,
@@ -63,7 +63,7 @@
     {
       "id": "wolotas-343",
       "name": "4.7-4.9GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4700,
@@ -91,7 +91,7 @@
     {
       "id": "wolotas-344",
       "name": "4.9-5.1GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4900,
@@ -119,7 +119,7 @@
     {
       "id": "wolotas-345",
       "name": "5.1-5.3GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5100,
@@ -147,7 +147,7 @@
     {
       "id": "wolotas-346",
       "name": "5.3-5.5GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5300,
@@ -175,7 +175,7 @@
     {
       "id": "wolotas-347",
       "name": "5.7-5.9GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5700,
@@ -203,7 +203,7 @@
     {
       "id": "wolotas-333",
       "name": "2.7-2.9GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2700,
@@ -231,7 +231,7 @@
     {
       "id": "wolotas-334",
       "name": "2.9-3.1GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2900,
@@ -259,7 +259,7 @@
     {
       "id": "wolotas-335",
       "name": "3.1-3.3GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3100,
@@ -287,7 +287,7 @@
     {
       "id": "wolotas-336",
       "name": "3.3-3.5GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3300,
@@ -315,7 +315,7 @@
     {
       "id": "wolotas-337",
       "name": "3.5-3.7GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3500,
@@ -343,7 +343,7 @@
     {
       "id": "wolotas-338",
       "name": "3.7-3.9GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3700,
@@ -371,7 +371,7 @@
     {
       "id": "wolotas-339",
       "name": "3.9-4.1GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3900,
@@ -399,7 +399,7 @@
     {
       "id": "wolotas-340",
       "name": "4.1-4.3GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4100,
@@ -427,7 +427,7 @@
     {
       "id": "wolotas-341",
       "name": "4.3-4.5GHz单向信号放大器-50w射频信号功放模块-4300-4500MHz传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4300,
@@ -455,7 +455,7 @@
     {
       "id": "wolotas-342",
       "name": "4.5-4.7GHz单向信号放大器-50w射频信号功放模块-4500-4700MHz传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4500,
@@ -483,7 +483,7 @@
     {
       "id": "wolotas-332",
       "name": "5.7-5.9GHz单向信号放大器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5700,
@@ -511,7 +511,7 @@
     {
       "id": "wolotas-330",
       "name": "5.7-5.9GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5700,
@@ -539,7 +539,7 @@
     {
       "id": "wolotas-316",
       "name": "2.9-3.1GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2900,
@@ -567,7 +567,7 @@
     {
       "id": "wolotas-317",
       "name": "3.1-3.3GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3100,
@@ -595,7 +595,7 @@
     {
       "id": "wolotas-318",
       "name": "3.3-3.5GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3300,
@@ -623,7 +623,7 @@
     {
       "id": "wolotas-319",
       "name": "3.5-3.7GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3500,
@@ -651,7 +651,7 @@
     {
       "id": "wolotas-320",
       "name": "3.7-3.9GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3700,
@@ -679,7 +679,7 @@
     {
       "id": "wolotas-321",
       "name": "3.9-4.1GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3900,
@@ -707,7 +707,7 @@
     {
       "id": "wolotas-322",
       "name": "4.1-4.3GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4100,
@@ -735,7 +735,7 @@
     {
       "id": "wolotas-323",
       "name": "4.3-4.5GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4300,
@@ -763,7 +763,7 @@
     {
       "id": "wolotas-324",
       "name": "4.5-4.7GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4500,
@@ -791,7 +791,7 @@
     {
       "id": "wolotas-325",
       "name": "4.7-4.9GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4700,
@@ -819,7 +819,7 @@
     {
       "id": "wolotas-326",
       "name": "4.9-5.1GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4900,
@@ -847,7 +847,7 @@
     {
       "id": "wolotas-327",
       "name": "5.1-5.3GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5100,
@@ -875,7 +875,7 @@
     {
       "id": "wolotas-328",
       "name": "5.3-5.5GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5300,
@@ -903,7 +903,7 @@
     {
       "id": "wolotas-329",
       "name": "5.5-5.7GHz单向信号放大器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5500,
@@ -931,7 +931,7 @@
     {
       "id": "wolotas-314",
       "name": "0.2-0.3GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 200,
@@ -959,7 +959,7 @@
     {
       "id": "wolotas-315",
       "name": "2.7-2.9GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2700,
@@ -987,7 +987,7 @@
     {
       "id": "wolotas-215",
       "name": "0.6-0.7 GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 600,
@@ -1015,7 +1015,7 @@
     {
       "id": "wolotas-216",
       "name": "0.5-0.6GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 500,
@@ -1043,7 +1043,7 @@
     {
       "id": "wolotas-217",
       "name": "0.4-0.5GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 400,
@@ -1071,7 +1071,7 @@
     {
       "id": "wolotas-218",
       "name": "0.3-0.4GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 300,
@@ -1099,7 +1099,7 @@
     {
       "id": "wolotas-219",
       "name": "0.2-0.3GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 200,
@@ -1127,7 +1127,7 @@
     {
       "id": "wolotas-205",
       "name": "2.4GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2100,
@@ -1155,7 +1155,7 @@
     {
       "id": "wolotas-206",
       "name": "2.0GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1900,
@@ -1183,7 +1183,7 @@
     {
       "id": "wolotas-207",
       "name": "1.8GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1700,
@@ -1211,7 +1211,7 @@
     {
       "id": "wolotas-208",
       "name": "1.6GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1500,
@@ -1239,7 +1239,7 @@
     {
       "id": "wolotas-209",
       "name": "1.4GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1300,
@@ -1267,7 +1267,7 @@
     {
       "id": "wolotas-210",
       "name": "1.2GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1160,
@@ -1295,7 +1295,7 @@
     {
       "id": "wolotas-211",
       "name": "0.9GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 900,
@@ -1323,7 +1323,7 @@
     {
       "id": "wolotas-212",
       "name": "0.8-0.9GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 800,
@@ -1351,7 +1351,7 @@
     {
       "id": "wolotas-213",
       "name": "0.7-1.0GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 700,
@@ -1379,7 +1379,7 @@
     {
       "id": "wolotas-214",
       "name": "0.7-0.8GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 700,
@@ -1407,7 +1407,7 @@
     {
       "id": "wolotas-204",
       "name": "2.4GHz单向信号放大器带环形器-20w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2300,
@@ -1435,7 +1435,7 @@
     {
       "id": "wolotas-187",
       "name": "2.4GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2300,
@@ -1463,7 +1463,7 @@
     {
       "id": "wolotas-172",
       "name": "0.2-0.3GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 200,
@@ -1491,7 +1491,7 @@
     {
       "id": "wolotas-173",
       "name": "0.3GHz-0.4GHz单向信号放大器-带环形器放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 300,
@@ -1519,7 +1519,7 @@
     {
       "id": "wolotas-174",
       "name": "0.4GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 400,
@@ -1547,7 +1547,7 @@
     {
       "id": "wolotas-175",
       "name": "2.4GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 500,
@@ -1575,7 +1575,7 @@
     {
       "id": "wolotas-176",
       "name": "600-700MHz单向信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 600,
@@ -1603,7 +1603,7 @@
     {
       "id": "wolotas-177",
       "name": "0.7GHz-0.8GHz单向信号放大器-50w射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 700,
@@ -1631,7 +1631,7 @@
     {
       "id": "wolotas-178",
       "name": "0.8-0.9GHz单向信号放大器-50w射频功放",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 800,
@@ -1659,7 +1659,7 @@
     {
       "id": "wolotas-179",
       "name": "0.9GHz-50w单向信号放大器带环形器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 900,
@@ -1687,7 +1687,7 @@
     {
       "id": "wolotas-180",
       "name": "1.0GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 700,
@@ -1715,7 +1715,7 @@
     {
       "id": "wolotas-181",
       "name": "1.1-1.2GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1100,
@@ -1743,7 +1743,7 @@
     {
       "id": "wolotas-182",
       "name": "1.2GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1160,
@@ -1771,7 +1771,7 @@
     {
       "id": "wolotas-184",
       "name": "1.6GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1500,
@@ -1799,7 +1799,7 @@
     {
       "id": "wolotas-185",
       "name": "1.8GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1700,
@@ -1827,7 +1827,7 @@
     {
       "id": "wolotas-186",
       "name": "2.2GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2100,
@@ -1855,7 +1855,7 @@
     {
       "id": "wolotas-171",
       "name": "2.4GHz单向信号放大器带环形器-50w射频信号功放模块-传输增益模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2300,
@@ -1883,7 +1883,7 @@
     {
       "id": "wolotas-170",
       "name": "2.4GHz单向功放-无线网单向功放模块-射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2300,
@@ -1911,7 +1911,7 @@
     {
       "id": "wolotas-165",
       "name": "1500-1700MHz单向信号放大器-40w射频功放1.6GHz",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1500,
@@ -1939,7 +1939,7 @@
     {
       "id": "wolotas-166",
       "name": "1.8GHz单向功放-无线网单向功放模块-射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1700,
@@ -1967,7 +1967,7 @@
     {
       "id": "wolotas-167",
       "name": "1.9-2.0-2.1GHz单向功放-无线网单向功放模块-射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1900,
@@ -1995,7 +1995,7 @@
     {
       "id": "wolotas-168",
       "name": "2.2GHz单向功放-无线网单向功放模块-射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2100,
@@ -2023,7 +2023,7 @@
     {
       "id": "wolotas-169",
       "name": "2.4GHz单向功放-无线网单向功放模块-射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2300,
@@ -2051,7 +2051,7 @@
     {
       "id": "wolotas-155",
       "name": "1.2GHz单向功放-1160MHz无线网单向功放模块-1280MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1160,
@@ -2079,7 +2079,7 @@
     {
       "id": "wolotas-156",
       "name": "1.1GHz单向功放-无线网单向功放模块-射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1300,
@@ -2107,7 +2107,7 @@
     {
       "id": "wolotas-150",
       "name": "0.7GHz-0.8GHz单向信号功放模块-40w",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 700,
@@ -2135,7 +2135,7 @@
     {
       "id": "wolotas-151",
       "name": "2.4GHz单向功放-无线网单向功放模块-wifi功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 800,
@@ -2163,7 +2163,7 @@
     {
       "id": "wolotas-152",
       "name": "0.9GHz单向功放-无线网单向功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 900,
@@ -2191,7 +2191,7 @@
     {
       "id": "wolotas-153",
       "name": "700-1000MHz单向信号功放-单向信号放大器模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 700,
@@ -2219,7 +2219,7 @@
     {
       "id": "wolotas-154",
       "name": "1.1GHz单向功放-无线网单向功放模块-射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1100,
@@ -2247,7 +2247,7 @@
     {
       "id": "wolotas-142",
       "name": "0.2GHz-0.3GHz单向信号放大器-单向功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 200,
@@ -2275,7 +2275,7 @@
     {
       "id": "wolotas-145",
       "name": "0.5GHz单向功放-无线网单向功放模块-射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 500,
@@ -2303,7 +2303,7 @@
     {
       "id": "wolotas-146",
       "name": "2.4GHz单向功放-无线网单向功放模块-wifi功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 600,
@@ -2331,7 +2331,7 @@
     {
       "id": "wolotas-137",
       "name": "0.6GHz信号功放模块-50w无线网信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 500,
@@ -2359,7 +2359,7 @@
     {
       "id": "wolotas-138",
       "name": "0.3GHz信号功放模块-50w无线网信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 200,
@@ -2387,7 +2387,7 @@
     {
       "id": "wolotas-134",
       "name": "0.7GHz信号功放模块-50w无线网信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 600,
@@ -2415,7 +2415,7 @@
     {
       "id": "wolotas-129",
       "name": "1.4GHz信号功放模块-无线网信号放大器-50w射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1300,
@@ -2443,7 +2443,7 @@
     {
       "id": "wolotas-130",
       "name": "1.2GHz信号功放模块-50w无线网信号放大器-蓝牙信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1100,
@@ -2471,7 +2471,7 @@
     {
       "id": "wolotas-131",
       "name": "0.7G-1.0G宽频信号放大器-50w射频功放",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 700,
@@ -2499,7 +2499,7 @@
     {
       "id": "wolotas-133",
       "name": "0.7GHz信号功放模块-50w无线网信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 700,
@@ -2527,7 +2527,7 @@
     {
       "id": "wolotas-124",
       "name": "2.1-2.3GHz信号功放模块-无线网信号放大器-射频功放模块",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2100,
@@ -2555,7 +2555,7 @@
     {
       "id": "wolotas-125",
       "name": "1.9GHz信号功放模块-2.1GHz无线网信号放大器-蓝牙信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1900,
@@ -2583,7 +2583,7 @@
     {
       "id": "wolotas-126",
       "name": "2.4GHz信号功放模块-无线网信号放大器-蓝牙信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1700,
@@ -2611,7 +2611,7 @@
     {
       "id": "wolotas-127",
       "name": "1.6GHz信号功放模块-无线网信号放大器-蓝牙信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1500,
@@ -2639,7 +2639,7 @@
     {
       "id": "wolotas-118",
       "name": "2.4GHz信号功放模块-无线网信号放大器-蓝牙信号放大器",
-      "category": "amp",
+      "category": "amp-oneway",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2400,
@@ -2667,7 +2667,7 @@
     {
       "id": "wolotas-305",
       "name": "1000MHz-2000MHz宽频射频放大器-1.0-2.0GHz宽带功放模块5w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 100,
@@ -2694,7 +2694,7 @@
     {
       "id": "wolotas-306",
       "name": "2000-3000MHz宽频单向信号放大器-5w宽带功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2000,
@@ -2721,7 +2721,7 @@
     {
       "id": "wolotas-307",
       "name": "3000MHz-4000MHz宽频射频放大器-3.0-4.0GHz宽带功放模块5w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3000,
@@ -2748,7 +2748,7 @@
     {
       "id": "wolotas-308",
       "name": "4000MHz-5000MHz宽频射频放大器-4.0-5.0GHz宽带功放模块5w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4000,
@@ -2775,7 +2775,7 @@
     {
       "id": "wolotas-309",
       "name": "5000MHz-6000MHz宽频射频放大器-5.0-6.0GHz宽带功放模块5w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5000,
@@ -2802,7 +2802,7 @@
     {
       "id": "wolotas-310",
       "name": "6000MHz-7000MHz宽频射频放大器-6.0-7.0GHz宽带功放模块5w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 6000,
@@ -2829,7 +2829,7 @@
     {
       "id": "wolotas-304",
       "name": "100MHz-1000MHz宽频射频放大器-0.1-1.0GHz宽带功放模块5w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 100,
@@ -2856,7 +2856,7 @@
     {
       "id": "wolotas-298",
       "name": "1000MHz-2000MHz宽频射频放大器-1.0-2.0GHz宽带功放模块10w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1000,
@@ -2884,7 +2884,7 @@
     {
       "id": "wolotas-299",
       "name": "2000MHz-3000MHz宽频射频放大器-2.0-3.0GHz宽带功放模块10w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2000,
@@ -2911,7 +2911,7 @@
     {
       "id": "wolotas-300",
       "name": "3000MHz-4000MHz宽频射频放大器-3.0-4.0GHz宽带功放模块10w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3000,
@@ -2939,7 +2939,7 @@
     {
       "id": "wolotas-301",
       "name": "4000MHz-5000MHz宽频射频放大器-4.0-5.0GHz宽带功放模块10w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4000,
@@ -2967,7 +2967,7 @@
     {
       "id": "wolotas-302",
       "name": "5000MHz-6000MHz宽频射频放大器-5.0-6.0GHz宽带功放模块10w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5000,
@@ -2995,7 +2995,7 @@
     {
       "id": "wolotas-303",
       "name": "6000MHz-7000MHz宽频射频放大器-6.0-7.0GHz宽带功放模块10w",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 6000,
@@ -3023,7 +3023,7 @@
     {
       "id": "wolotas-297",
       "name": "100MHz-1000MHz宽频射频放大器-0.1-1.0GHz宽带10w功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 100,
@@ -3051,7 +3051,7 @@
     {
       "id": "wolotas-249",
       "name": "6.0-7.0GHz宽频单向信号放大器-6000MHz-7000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 6000,
@@ -3079,7 +3079,7 @@
     {
       "id": "wolotas-244",
       "name": "1.0-2.0GHz宽频单向信号放大器-1000MHz-2000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1000,
@@ -3107,7 +3107,7 @@
     {
       "id": "wolotas-245",
       "name": "2.0-3.0GHz宽频单向信号放大器-2000MHz-3000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2000,
@@ -3134,7 +3134,7 @@
     {
       "id": "wolotas-246",
       "name": "3.0-4.0GHz宽频单向信号放大器-3000MHz-4000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3000,
@@ -3162,7 +3162,7 @@
     {
       "id": "wolotas-247",
       "name": "4.0-5.0GHz宽频单向信号放大器-4000MHz-5000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4000,
@@ -3190,7 +3190,7 @@
     {
       "id": "wolotas-248",
       "name": "5.0-6.0GHz宽频单向信号放大器-5000MHz-6000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5000,
@@ -3218,7 +3218,7 @@
     {
       "id": "wolotas-242",
       "name": "6.0-7.0GHz宽频单向信号放大器-6000MHz-7000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 6000,
@@ -3246,7 +3246,7 @@
     {
       "id": "wolotas-243",
       "name": "0.4-1.0GHz宽频单向信号放大器-400MHz-1000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 400,
@@ -3274,7 +3274,7 @@
     {
       "id": "wolotas-236",
       "name": "1.0-2.0GHz宽频单向信号放大器-1000MHz-2000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1000,
@@ -3302,7 +3302,7 @@
     {
       "id": "wolotas-237",
       "name": "2.0-3.0GHz宽频单向信号放大器-2000MHz-3000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2000,
@@ -3329,7 +3329,7 @@
     {
       "id": "wolotas-238",
       "name": "3.0-4.0GHz宽频单向信号放大器-3000MHz-4000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3000,
@@ -3357,7 +3357,7 @@
     {
       "id": "wolotas-239",
       "name": "4.0-5.0GHz宽频单向信号放大器-4000MHz-5000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4000,
@@ -3385,7 +3385,7 @@
     {
       "id": "wolotas-240",
       "name": "5.0-6.0GHz宽频单向信号放大器-5000MHz-6000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5000,
@@ -3413,7 +3413,7 @@
     {
       "id": "wolotas-235",
       "name": "0.4-1.0GHz宽频单向信号放大器-400MHz-1000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 400,
@@ -3441,7 +3441,7 @@
     {
       "id": "wolotas-234",
       "name": "6.0-7.0GHz宽频单向信号放大器-6000MHz-7000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 6000,
@@ -3469,7 +3469,7 @@
     {
       "id": "wolotas-229",
       "name": "1.0-2.0GHz宽频单向信号放大器-1000MHz-2000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 1000,
@@ -3497,7 +3497,7 @@
     {
       "id": "wolotas-230",
       "name": "2.0-3.0GHz宽频单向信号放大器-2000MHz-3000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2000,
@@ -3524,7 +3524,7 @@
     {
       "id": "wolotas-231",
       "name": "3.0GHz-4.0GHz宽频单向信号放大器-3000MHz-4000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 3000,
@@ -3552,7 +3552,7 @@
     {
       "id": "wolotas-232",
       "name": "4.0-5.0GHz宽频单向信号放大器-4000MHz-5000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 4000,
@@ -3580,7 +3580,7 @@
     {
       "id": "wolotas-233",
       "name": "5.0-6.0GHz宽频单向信号放大器-5000MHz-6000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5000,
@@ -3608,7 +3608,7 @@
     {
       "id": "wolotas-228",
       "name": "0.4-1.0GHz宽频单向信号放大器-400MHz-1000MHz射频功放模块",
-      "category": "amp",
+      "category": "amp-wideband",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 400,
@@ -3636,7 +3636,7 @@
     {
       "id": "wolotas-364",
       "name": "5.8GHz 5w双向型号放大器-N型接口信号放大模块",
-      "category": "amp",
+      "category": "amp-bidirectional",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 5725,
@@ -3663,7 +3663,7 @@
     {
       "id": "wolotas-362",
       "name": "2.4GHz 5w双向型号放大器-N型接口信号放大模块",
-      "category": "amp",
+      "category": "amp-bidirectional",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": 2400,
@@ -3690,7 +3690,7 @@
     {
       "id": "wolotas-357",
       "name": "2400-2500MHz-5725-5850MHz- 2.4GHz&5.8GHz-4w双向信号放大模块",
-      "category": "amp",
+      "category": "amp-bidirectional",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": null,
@@ -3717,7 +3717,7 @@
     {
       "id": "wolotas-356",
       "name": "2400-2500MHz-5725-5850MHz- 2.4GHz&5.8GHz-4w双向信号放大模块",
-      "category": "amp",
+      "category": "amp-bidirectional",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
       "freqMin": null,
@@ -4607,4 +4607,3 @@
     }
   ]
 }
-
