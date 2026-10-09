@@ -2684,7 +2684,7 @@
       "sourceUrl": "http://www.wolotas.cn/product/305.html",
       "introZh": "工作频段 100-1000MHz；输出功率 5w(37dBm)；功率增益35±1(dB)",
       "introEn": "",
-      "notes": "产品类别：宽频单向信号放大器\n工作频段：100-1000MHz\n平坦度：±0.5dB\n回波损耗：≤-15dB\n功率增益：35±1(dB)\n工作效率：40%@37dBm\n输入功率：-5 ~ 10dBm\n输出功率：5w(37dBm)\n工作电压：24-28V\n工作电流：0.52A@24V\n接头类型：输入：SMA-F\n工作指示灯：红色\n供电方式：AWG18型20cm红黑线\n额外控制线：白色（3~28V）\n产品尺寸：90*46*17mm\n产品重量：0.12KG\n芯片类型：氮化镓\n定制频段：支持\n来源：http://www.wolotas.cn/product/305.html",
+      "notes": "产品类别：宽频单向信号放大器\n工作频段：100-1000MHz\n平坦度：±0.5dB\n回波损耗：≤-15dB\n功率增益：35±1(dB)\n工作效率：40%@37dBm\n输入功率：-5 ~ 10dBm\n输出功率：5w(37dBm)\n工作电压：24-28V\n工作电流：0.52A@24V\n接头类型：输入：SMA-F\n工作指示灯：红色\n供电方式：AWG18型20cm红黑线\n额外控制线：白色（3~28V）\n产品尺寸：90*46*17mm\n产品重量：0.12KG\n芯片类型：氮化镓\n定制频段：支持\n核对提示：原站页面标题写1000-2000MHz，但页面介绍和参数表写100-1000MHz，原站信息不一致，频段待确认。\n来源：http://www.wolotas.cn/product/305.html",
       "updatedAt": "2026-10-09",
       "_source": "http://www.wolotas.cn/product/305.html",
       "_specCount": 18,
@@ -2693,7 +2693,7 @@
     },
     {
       "id": "wolotas-306",
-      "name": "100MHz-1000MHz宽频射频放大器-0.1-1.0GHz宽带功放模块5w",
+      "name": "2000-3000MHz宽频单向信号放大器-5w宽带功放模块",
       "category": "amp",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
@@ -3851,7 +3851,7 @@
     },
     {
       "id": "wolotas-288",
-      "name": "6.0-7.0GHz棒棒糖天线-6000-7200MHz-2.5dBi增益全向天线",
+      "name": "6.0-7.2GHz全向天线-2.5dBi右旋圆极化天线",
       "category": "omni",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
@@ -3932,7 +3932,7 @@
     },
     {
       "id": "wolotas-279",
-      "name": "4.0-5.1GGHz全向天线-4000-5100MHz-2.5dBi 增益全向天线",
+      "name": "4.0-5.1GHz全向天线-2.5dBi右旋圆极化天线",
       "category": "omni",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
@@ -4202,7 +4202,7 @@
     },
     {
       "id": "wolotas-266",
-      "name": "27dBi高增益双频定向天线-5-7GHz平板天线",
+      "name": "4.2-5.0GHz-高增益定向天线-水平极化平板天线",
       "category": "directional",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
@@ -4553,7 +4553,7 @@
     },
     {
       "id": "wolotas-227",
-      "name": "2.5-2.7GGHz天线 2500-2700MHz-15dBi 高增益定向天线",
+      "name": "2500-2700MHz定向天线-15dBi水平极化天线",
       "category": "directional",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
@@ -4580,7 +4580,7 @@
     },
     {
       "id": "wolotas-221",
-      "name": "2.4GHz天线 2300-2400MHz-15dBi 高增益定向天线",
+      "name": "2300-2500MHz定向天线-15dBi水平极化天线",
       "category": "directional",
       "brand": "WOLOTAS / 沃隆特斯",
       "model": "",
@@ -4607,3 +4607,4 @@
     }
   ]
 }
+
